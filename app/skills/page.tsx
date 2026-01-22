@@ -1,9 +1,7 @@
-import "@/styles/globals.css"
-
 export default function Page() {
   return (
     <main>
-      <h1>Hello world</h1>
+      <h1>Skills</h1>
     </main>
   )
 }
