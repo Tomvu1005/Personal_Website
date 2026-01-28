@@ -1,0 +1,37 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    font-size: 1.25em;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 400;
+
+    background-color: #f2ff81;
+    padding: 0.45em;
+    margin-left: -0.5em;
+    width: 100%;
+}
+
+h3 {
+    margin: 0.5rem 0 1rem 4rem;
+}
+
+.footerItems {
+    display: flex;
+    gap: 5em;
+    list-style: none;
+    margin-top: 0;
+    margin-right: 7rem;
+
+    color: green;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration: underline;
+}

@@ -9,7 +9,7 @@ const navItems = [
 
 const externalLinks = [
     { name: "Github", href: "https://github.com/Tomvu1005" },
-    { name: "LinkedIn", href: "https://www.linkedin.com/in/duc-vu-985195250/" },
+    { name: "Resume", href: "/Duc_Vu_Resume.pdf" },
 ]
 
 export default function Navbar() {
