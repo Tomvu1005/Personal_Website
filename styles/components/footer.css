@@ -14,7 +14,7 @@ footer {
 }
 
 h3 {
-    margin: 0.5rem 0 1rem 4rem;
+    margin: 0.5rem 0 1rem 0;
 }
 
 .footerItems {
@@ -22,7 +22,7 @@ h3 {
     gap: 5em;
     list-style: none;
     margin-top: 0;
-    margin-right: 7rem;
+    margin-right: 9rem;
 
     color: green;
 }

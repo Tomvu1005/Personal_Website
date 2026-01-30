@@ -8,7 +8,7 @@ export default function Footer() {
     return (
         <footer>
             <h3>
-                Contacts:
+                Want to know more? Let's connect!
             </h3>
             <ul className="footerItems">
                 {footerItems.map((item) => (
